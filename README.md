@@ -4,9 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEDFAB&center=true&width=435&lines=Finance+Graduate+%7C+France%2C+EDHEC;Transitioning+into+Data+Science+" alt="Typing SVG" /></a>
 </p>
 
-💬 Ask me about projects that connect <b><finance, data, and machine learning</b> to solve real-world problems — from dashboards and automation to predictive modeling and AI governance.
-
-⚡ Fun fact -> **Addicted to Coffee**
+💬 Ask me about projects that connect **finance, data, and machine learning** to solve real-world problems — from dashboards and automation to predictive modeling and AI governance.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -21,9 +19,3 @@
 <h3 align ="center">
 <p><a href="https://www.buymeacoffee.com/meilia"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meilia" /></a></p></h3><br>
 <br><br>
-
-<h3 align ="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiilia&show_icons=true&locale=en&layout=compact" alt="meiilia" /></p></h3>
-
-<h3 align ="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiilia&show_icons=true&locale=en" alt="meiilia" /></p></h3>
-
-<h3 align ="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiilia&" alt="meiilia" /></p></h3>
