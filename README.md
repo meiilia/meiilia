@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meilia</h1>
 
-<h3 align="center"> 
+<p align ="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEDFAB&center=true&width=435&lines=Finance+Graduate+%7C+France%2C+EDHEC;Transitioning+into+Data+Science+" alt="Typing SVG" /></a>
-</h3>
+</p>
+
 💬 Ask me about projects that connect <b><finance, data, and machine learning</b> to solve real-world problems — from dashboards and automation to predictive modeling and AI governance.
 
 ⚡ Fun fact -> **Addicted to Coffee**
