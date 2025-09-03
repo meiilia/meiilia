@@ -6,8 +6,46 @@
 
 💬 Ask me about projects that connect **finance, data, and machine learning** to solve real-world problems — from dashboards and automation to predictive modeling and AI governance.
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/meiilia" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=meiilia&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/meiilia?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/meiilia?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/meiilia?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/meiilia?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
+
+    
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
+
+
+
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">-->
+<h4> 
+  🌱 I am currently working on and developing my programming skills.</br>
+ 📊 My focus in finance : automating financial analysis & portfolio insight </br>
+ 💬 Skills I acquire in programming languages such as Python, SQL.</br>
+ ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
+ ✨ I'm addicted to Coffee </h4> <div align="left"> 
+
+<h3 align="left">🧲 Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/eribero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eribero" height="30" width="40" /></a>
 <a href="https://kaggle.com/meiliaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meiliaa" height="30" width="40" /></a>
 </p>
