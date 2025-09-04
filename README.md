@@ -1,7 +1,7 @@
 <!-- MasterHead -->
 <p align ="center">
-  <a href="https://zupimages.net/up/25/36/3geu.gif">
-  <img src="https://zupimages.net/up/25/36/3geu.gif" alt="Meilia GIF" style="width:auto; height:auto"/>
+  <a href="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif">
+  <img src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif" alt="Meilia GIF" style="width:auto; height:auto"/>
 </a>
 </p>
 <h1 align="center">Hi 👋, I'm Meilia</h1>
@@ -33,7 +33,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/refs/heads/main/transparent_gitgif.gif">
 
 
 <!-- about me -->
@@ -71,9 +71,7 @@
 <br><br>
 
 <p align ="center">
-  <a href="https://i.pinimg.com/originals/b7/f7/88/b7f788e000ffb2854a98d937b8a46593.gif">
-  <img src="https://i.pinimg.com/originals/b7/f7/88/b7f788e000ffb2854a98d937b8a46593.gif" alt="Meilia GIF" style="width:auto; height:auto"/>
+  <a href="https://i.pinimg.com/originals/66/3a/46/663a4639787891da6037588879e36176.gif">
+  <img src="https://i.pinimg.com/originals/66/3a/46/663a4639787891da6037588879e36176.gif" alt="Meilia GIF" style="width:auto; height:auto"/>
 </a>
 </p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
